@@ -1,4 +1,4 @@
-name: Build SweatLock APK
+name: Build ScrollLock APK
 
 on:
   push:
